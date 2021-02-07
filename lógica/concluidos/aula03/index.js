@@ -1,0 +1,4 @@
+//FALSY
+// ''  "" ``
+// null/undefined
+// NaN
